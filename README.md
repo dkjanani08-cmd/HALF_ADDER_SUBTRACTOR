@@ -64,10 +64,12 @@ Developed by: D.JANANI
 RegisterNumber: 25015838
 
 **RTL Schematic**
-![image](rtl1.png)
+<img width="1463" height="811" alt="Screenshot 2026-03-20 233229" src="https://github.com/user-attachments/assets/866b3730-4716-4ab1-adcd-a912934e4100" />
+
 
 **Output/TIMING Waveform**
-![image](rtl2.png)
+<img width="1468" height="800" alt="Screenshot 2026-03-20 233246" src="https://github.com/user-attachments/assets/62f66e0e-549d-4b39-9811-562ac514af1c" />
+
 
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
